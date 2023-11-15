@@ -1,0 +1,26 @@
+{
+  "name": "Bill Richardson",
+  "age": 44,
+  "address": {
+    "street": "Ruzo Pass",
+    "city": "Fuhkodkiz",
+    "state": "UT",
+    "zip": "43342"
+  },
+  "contact": {
+    "phone": "(961) 783-5172",
+    "servicePhone": "800362566"
+  },
+  "birthday": "1961-10-12T02:12:39.705Z",
+  "ip": "156.216.44.141",
+  "foo": "bar",
+  "profile": {
+    "about": "Kew nebudnu an ul ahenurbu dite jivwu ubec pocvefwuh hoh kih san necu opwewbu. Ti feep ojilo pod ebuge ga ko agwihug je saru vorit mofvur bep sibisari. At mecjoz par opog lu tesehruf kasubeb enotuega hapitco ojkerrep cekwaf recof alruc.",
+    "bio": "Le ov susopik lojutiari comube uf vuali de ucagu lu vemutseh oce nehufi co hek fu. Fu pe nac cawha lutreim wojsauj pobbamrac bipturek rovfirli pec cejwe zesesa. Rigo bewruba len rilobedo pakifona dukuhse wejamovi fu teh dikif von hup pen ebu uluju jokut luneza. Pid utukom rawcopipu kaw degbeba be iriboit dukice sub tizes hodemik tukwilal eh nunuhpes hovfuhba rojoeto. Biaga citjap teowanu me jiffog tehruuro iv ocoufoace rajawfa kachid jimadeb puli he zi waetu asbeefi souz orpo. Zocut dekjaoze ha kadez vuzwane junudsu na gevfe ti joftaj uhaj poib jevohiuju keodo demojo doj lecalifi kuncow. Saw go pu sotnuk ca jahtop lejo wopehi fova asoho zam tilaz tin uvfalgi."
+  },
+  "apiKey": "ee4ed89adf9117a6e87af24130413da0300b6f4f90fe53e62ff2712a9adbbe69",
+  "currency": {
+    "code": "KMF",
+    "name": "Comoros Franc"
+  }
+}
