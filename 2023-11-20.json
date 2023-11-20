@@ -1,0 +1,26 @@
+{
+  "name": "Millie Perry",
+  "age": 36,
+  "address": {
+    "street": "Gorgo Boulevard",
+    "city": "Cicupam",
+    "state": "MT",
+    "zip": "84692"
+  },
+  "contact": {
+    "phone": "(413) 373-8776",
+    "servicePhone": "800259438"
+  },
+  "birthday": "2003-03-10T12:21:58.547Z",
+  "ip": "124.119.175.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Zohamuh lur wukbir sir cov jihzabe hu lof bidi jom fobvumu vaf. Enheup wo lutoszet piefamow zifja biwsimaki iseca tom vizuib jotajubev du hu jeine oghec vigi. Uzudawaw cakabgo powa meugioj zucez ku pacapom beusi vezi sul zo supu hage no ucija wejuvda uji. Peh cuhi jiubates cazewu ono pod podsivuh cuge venbo zeslepleh kodifnu saalu avoge. Gicivi osbuw go toledcu mevsi nuerusu pojolkim mivkebjo ununuk kucvow pojoadu menfevu. Ijgadki hicgedwe ano hauzo koseble kodkiz zibucit ebasuop mosfelgo nidu wijej moffon bugefate nusmeplo kifsisup netaka.",
+    "bio": "Hij ig huafteh cekunico du ejuwu tuwleme bih so zagzorevo tuw nef. Barafu wega olcozfug hizzemlu mi uronolomi robra ejokepje me lileguwam mamlojes siw. Gon bol kis duwrozu umeb elomoru ibboh jutpivaz uhi ed zazir wu. Homsihhu ow de jawrocu li uva dah loromluf azacuh mies araom timburepu wa mewsi. Meota zosa wizojca wa focmeju ba fa inido na tifaiw wuboc ver rur edzejvoh utpi. Ikesaweg gofohga si vonhepvuv pofrole doovu agkofih kilgelo ce rem ipahugej cuzol. Sewiis doclo wapades izi tokgagis na olad ez siwo docte busjatuto wo juta tosnuef uzunuvo deskicod di upi."
+  },
+  "apiKey": "1efe725b3381ebf1734a0de49711d957ea17cf99aa60d55244ea1afc04fb6f0f",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
