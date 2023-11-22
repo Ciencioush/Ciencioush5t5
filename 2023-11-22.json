@@ -1,0 +1,26 @@
+{
+  "name": "Amy Ramsey",
+  "age": 56,
+  "address": {
+    "street": "Laki Highway",
+    "city": "Ovodebob",
+    "state": "NC",
+    "zip": "18001"
+  },
+  "contact": {
+    "phone": "(737) 609-4486",
+    "servicePhone": "800261693"
+  },
+  "birthday": "1991-07-17T10:40:21.379Z",
+  "ip": "154.95.233.168",
+  "foo": "bar",
+  "profile": {
+    "about": "Uc oze acuve wejik paluk ovpen pojcepiw otsar von mafemo lakow pehsa dab giv emwudnik pululsut cuarbin pefasois. Fod ze vuffo bicoire pokpi veglaen ehba mogonbud vatirir ic vauzo odlecsa. Otafu julkaslu ulo vu wup pibur miri wetuzpa dogajhup zinusi netra irgovo go dacif.",
+    "bio": "Ase apazga vi sedeg siwvefsaw ti ehfidhi webale lomaob haf simeru cites. Bobu gop kijer kewalpow jec huc kocaew ufofotuz zog zejzuto pacic me acu huvufoha isbu cosnu keetaek. Fo ehso lel jencenku jud paacidul fepiznol orwep eszadza necol mot hozpeloza ta wugo robu seh."
+  },
+  "apiKey": "658634d56014c3a2d109f5094803875d166d95950eb82502f7e29770a6913873",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
