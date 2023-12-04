@@ -1,0 +1,26 @@
+{
+  "name": "Jim Nelson",
+  "age": 60,
+  "address": {
+    "street": "Wajod Drive",
+    "city": "Gatuwuw",
+    "state": "NC",
+    "zip": "59289"
+  },
+  "contact": {
+    "phone": "(940) 682-2338",
+    "servicePhone": "800433782"
+  },
+  "birthday": "1976-11-08T04:46:10.577Z",
+  "ip": "101.74.177.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Bojfi rezi medezi ka ho guz ziodute giko kekebwe awuwlaj etopu aliid wiju vinu az teklitko ciwpuc. Ezaima heckud tuuzge bahel uhoduk beoceso den womhuk bicbim nod doc agewevrak. Takim ziwuw som zil tuhuw hegi locefe na ci socupiis wutebju gifaj saduvhu bo sefkauz vohel.",
+    "bio": "Ive to ho dudap ik armadiv miec ehi pesaboih febatob no pulvecpem ce zolikcip anzov ravtahda. Sobo pabompuh gudihi uc akja luezutof ur zos pi ho tomow ju. Seceh nahlotus lobu wut cubug duwo roiru raczofa olaram dah hac neclut. Dopwihof gucum hapi joddihom sil rer hisuzkuf hizucku am pazlorad fe mu jomel lagnohut muov copiruvon casu itopu."
+  },
+  "apiKey": "a3f8fcfe7f0eadf8d4e448531e208d317854c63a8ede913fe48085d2f99aeb65",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
