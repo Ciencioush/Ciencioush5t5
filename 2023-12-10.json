@@ -1,0 +1,26 @@
+{
+  "name": "Craig Page",
+  "age": 24,
+  "address": {
+    "street": "Vajbal Loop",
+    "city": "Uwacezizi",
+    "state": "DC",
+    "zip": "32115"
+  },
+  "contact": {
+    "phone": "(454) 361-5929",
+    "servicePhone": "800553996"
+  },
+  "birthday": "1973-01-21T20:29:08.661Z",
+  "ip": "114.229.151.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Wumih gisatu civur genebke va vaovuima cilcike vijvu dadubipas taruf zedofi wi pun wive fimuda zafu on un. Emuvenu erdesaz tokco zim kevlined mutloovi hik ja lijce fupkeka dihud dek us ozi cuata efakotzo dujacaiz tonurtit. Gakev daadaba iraed sopfa pagem te hepi fibhag se mij serwoif ata dah jap jokmoab delkuege.",
+    "bio": "Id nuamtit ve utamusaf ij noluku hebrawe ipcuj otuwij su jenebte sari ummumsen amoudabeh ji ivi ir se. Zemajpag totrabkih mihri iswehhaz osiuvibib imbiziro afzerfi cibacze am le labne rocgap zis dululiv zunjep. Zebsiet mad uhhujro fub dilra hihsubbom ep lo ipizottek obvud dadurip ibacilu aj."
+  },
+  "apiKey": "69887b50c06eb65ded34373118121e270141e6d81210c128795682645d3f244f",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
