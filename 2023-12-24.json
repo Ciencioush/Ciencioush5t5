@@ -1,0 +1,26 @@
+{
+  "name": "Isaac Wilkerson",
+  "age": 46,
+  "address": {
+    "street": "Utav Heights",
+    "city": "Dezsuvi",
+    "state": "AZ",
+    "zip": "21753"
+  },
+  "contact": {
+    "phone": "(751) 247-7559",
+    "servicePhone": "800613672"
+  },
+  "birthday": "2001-10-27T04:44:03.420Z",
+  "ip": "232.37.180.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Kimidve zacejuaj maza iziew da lil bepjav simja bupmobga roro jalib lutzuz giluofa wepuar woev. Jepufac apwo vofhab fudfe nohpib izpoj ehizovti zanfo jefgupo denujka rosvetef aba corofok zon nihrevip. Subbunem zikauj cej jot mohi lofhumuc kuhod de imdog af nukmuoda bipadja umcarjib urru.",
+    "bio": "Bawo is kuatwa sokdod nopeh efigo fewjozzo rivpa pukvi uhri lujgor ge le cir ficurap zako opam gepusisi. Jununal zus calfipu uhwe becaki laug lo nedwafcij oc cewgij gahileg nu idu lieh. Kotgegko jiskenhiw virceive kuppit ti de sogitwut liccudo oke na aveba egefike ih ri."
+  },
+  "apiKey": "dabc48cdeca01f303d73a57c4e64844eca9785b61eec75c69b3248cfabe777cf",
+  "currency": {
+    "code": "CZK",
+    "name": "Czech Republic Koruna"
+  }
+}
