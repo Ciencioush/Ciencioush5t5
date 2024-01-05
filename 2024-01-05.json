@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Farmer",
+  "age": 57,
+  "address": {
+    "street": "Tusu Loop",
+    "city": "Nimpilome",
+    "state": "CA",
+    "zip": "02172"
+  },
+  "contact": {
+    "phone": "(671) 805-2426",
+    "servicePhone": "800579428"
+  },
+  "birthday": "2004-10-14T21:54:29.033Z",
+  "ip": "216.31.37.142",
+  "foo": "bar",
+  "profile": {
+    "about": "Menjubap jilomi ic vomcejede ahukow ub aj oroitutu cubidud meok eti ovu juljehlo jadduv ihono. Ziwbiwipa togagnet ku fofba hi usaarure luc goznagpot rankubla ekaewa pusvinjov sem vosur. Zaz gu tevkage fecuzo kigpihur nauf edevap vaksafa ilipu nes meppulun ubo joklo damnoh.",
+    "bio": "Uneresmu epumabu piv ucu epewokto tosit ga hercohke low afufo enka coboaso vad piwvuj ivi mudgeljew zogagla. Ki kuafa potih toco eke todga lubuzse bo atmiv kefweckuc vopaso pojovek jofgu ha zicmu enuruote. Avuaduif hokgesiv bopumheh iw dujuti fuwporef gu vu wamloc di monjo bo lazaf bigbi zerza okrohjoj."
+  },
+  "apiKey": "e9f24b48c5a527afc0b49046f3e39c3fc4af60e29404e8c454991f70f97bef6f",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
