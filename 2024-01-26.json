@@ -1,0 +1,26 @@
+{
+  "name": "Danny Washington",
+  "age": 42,
+  "address": {
+    "street": "Guevi Extension",
+    "city": "Pugeziv",
+    "state": "ND",
+    "zip": "84371"
+  },
+  "contact": {
+    "phone": "(708) 447-6003",
+    "servicePhone": "800482915"
+  },
+  "birthday": "1993-09-27T14:48:31.174Z",
+  "ip": "219.207.87.69",
+  "foo": "bar",
+  "profile": {
+    "about": "Di je kijdo gob vibaparic ri nici ojerioko fav cuwjazhud cosuvu zo. Difba danji kilitez ijugi vej wo gisneep hamec ib tarleh sorpi rah cig. Aknobutu vol sugermap cah ho bi nu muibosa gilosno sa kodot wowanu. Locdubhet resbo sojughaj onejom tudgomofa pemcagwuk ode lorjavi uva ifageas abmis epo.",
+    "bio": "Viduv cette atu isoirnus mi wi iwvem upo ukodo epo orhaj zam rogodfu. Peghac agul fokem jud erkep serev du tu beza ewicu ke nav noc. Degap pe jocimaw caufe cajumen saodaiso uhawu row pujonuil debubce cosim egriw ricico zifa fec. Giz foto liseoza wu sasil cohijesec eduji mewo ho jumra so puab evu."
+  },
+  "apiKey": "48426fcda98fe6d0d5e38c35145fedbb0528eb9856c1101d647a34561d71bca3",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
