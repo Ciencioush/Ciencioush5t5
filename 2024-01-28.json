@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Stewart",
+  "age": 26,
+  "address": {
+    "street": "Fehiv Turnpike",
+    "city": "Neborpih",
+    "state": "PA",
+    "zip": "82138"
+  },
+  "contact": {
+    "phone": "(400) 532-6141",
+    "servicePhone": "800792595"
+  },
+  "birthday": "1973-08-10T19:41:45.929Z",
+  "ip": "152.122.78.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Vikeso erefu peepu dem mikumota nes jofa bin pevimar ejetanzov ve fulir bonhe sofal. On nupco tacud cupwotad izicu ruzisfom gab ejtebo fucgebcov maz izipugto ragiw potom. Nudwo so rema zeawi bagsa vuzme iwionoum ka zi ri keju pigsi.",
+    "bio": "Jopcoh bocki con zetivmo zafahgor mahfe popo ton nudevse veb taduk cubecvo ib ji heloraco dim mivvobsur vid. Rauhzit ohe dod sizib fajdajbe rechoehu mu fidah fof nommekil zeb vinizba ilguago ul wu. Raeco hal sifaboki bokjipim wu rudosajeb objahciw gonnapkad razofifa upkem bikar jogsowatu so no vepfup so zizas. Zec sirawo ra sebop unli ukla ulurasjo wam nivinat coad fuara upigevu ewa kir wecauj."
+  },
+  "apiKey": "7253c2b74ecd83af49f01e3a96b30453e671e3106195c3bf90d63eff4a16fcbe",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
