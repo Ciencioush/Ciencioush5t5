@@ -1,0 +1,26 @@
+{
+  "name": "Evan Barber",
+  "age": 30,
+  "address": {
+    "street": "Zuzeb Pass",
+    "city": "Vuanaha",
+    "state": "NY",
+    "zip": "32111"
+  },
+  "contact": {
+    "phone": "(779) 548-7502",
+    "servicePhone": "800274722"
+  },
+  "birthday": "1999-10-12T17:18:17.504Z",
+  "ip": "159.124.250.130",
+  "foo": "bar",
+  "profile": {
+    "about": "Tac gicdeec versek ez ucwalo gawjufap asviif vu bagmi sa ji mi doldawu ofo. Mo pe bigokup gaaru fe mub ro reniw voglelnu wenru kafgumi gicpewno teukpe. Dinus begre abso awukipo amsodiz rupaga kosafob colwoma rakati kalickat ledcapit weki ino adu.",
+    "bio": "Da konigpoz gajagil lo ruz ovete zibez foucisif jo efaje het sepabel tumwe muzfut. Ceh hipe enaafbi is ci veseziti rizeij olidelij fir let butri maaseji hi kepomeni maisehu hopabbiw. Hib ibi ro zopa dizrerwi wawutu ofmedu jen te wez cubhumar pu wepi zo wezespi foz fa guesu. Ne ceban uvoajateb ewatru li vonrir esonurud zabouf tuvtibuh jazoh egifi lalsalto hacasru vuef ov."
+  },
+  "apiKey": "36e2ae20fb8ffe3b05465121dc9973a5bc87f77cbc138c606191b4e88666dd0c",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
