@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Owens",
+  "age": 55,
+  "address": {
+    "street": "Hipe Ridge",
+    "city": "Comozet",
+    "state": "NJ",
+    "zip": "53481"
+  },
+  "contact": {
+    "phone": "(234) 789-8684",
+    "servicePhone": "800374299"
+  },
+  "birthday": "1965-03-27T17:52:42.678Z",
+  "ip": "91.135.21.190",
+  "foo": "bar",
+  "profile": {
+    "about": "Tefi giita tatom lenoboj ke zusipwi disenak gatufji jordah zona si nepsuci va caniza agpiwe. Wifaguh uhcihej wissof ofo agmarlek ri oga to aw is tabkumes huajde pu magifdoh. Zuosu weluol vi kesbewe tuvi kaduk viv rukcen teg faw tojon vo ne aronoja omcadbo re oparile. Haabiig ola jutalo voz nivi vi asawel bogos pozombik cojes ce gofav.",
+    "bio": "Puhej tojali dukab kibje fiafogi pizepvuc otabe voiva ruv buvsowdi enofaba ce so wetidizut nehgod sidzul nezikop. Puz vekci pewuzus gar biowdi noji budwu vi oluci lasrudi saerwup oneoluta bus. Lepanlib veuphez owaag votabzu ja beto cimo fa pulvo giegkof sima uwaco leav one lauriji azi."
+  },
+  "apiKey": "a0a4d60a419b9ccf116556d3ea95939a15adfae65a2515d6f753ae09b46c06cc",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
