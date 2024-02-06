@@ -1,0 +1,26 @@
+{
+  "name": "Carl Henderson",
+  "age": 23,
+  "address": {
+    "street": "Folzo Manor",
+    "city": "Uscuelo",
+    "state": "ME",
+    "zip": "99354"
+  },
+  "contact": {
+    "phone": "(641) 522-5456",
+    "servicePhone": "800949364"
+  },
+  "birthday": "1983-05-11T16:23:05.050Z",
+  "ip": "33.145.116.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Aw co fogimce teneva kaudile wudidton zez hecoka kekcev uweem eknazi lokgetup mobon wijogedaj famu guk bemholiz. Govid defekoc woogdu oj fojudaf kek tilet nojiobo setwuf uvgewe jarke gab ni ta osa lekuc vi fimaze. Miperi kauj eragesaga buzleer wi imahiweja ge ja lirrewpu oj ozariz hikhe witpalac jigbodobi anepelum keosupij boc lir. Cauc gefohih segino ojwi amenev ahecoh fij jivih huliv vepgujpeg rud ga gufre guru recrifpe kobuf fuci. Jutrop otehe kamew ir rofzumuc lopew tehzudawu riwaak reoru nosduk safpik kiluw dugobane bov suzoh el igoveghik. Pin duvurle gifu vosazci weifi cibletif wimmen zevsu immar fuzuhi cuf sucifi giakakil rajbauwo pocvo baefa huv getfip. Ufko iciemati umi fappigi uf solfoku ugi digosem pukiedi ded ro papujit ki galosbek winepuf.",
+    "bio": "Omvudrek ceciple ropuctu memegun he ulsitti himutehik wod cafaman dozezpow fa wep. Ub fopverza bohafo gigjaib mekmag ceeje tozim do wi gigageosi hordor fahose jal bot opo ekotga. Inizutaf gi ajimom lu oghoh giw lamte wejcip kij kiih cahikul debbur. Furiti za veunaiba nicetuce humi oljubgo vicaz sa ujo pom fed ofnenkac. Bacocamat losru te ejcuc pupolo em me zomu esecal lipima tiw dezci he ko fuz vik dupode."
+  },
+  "apiKey": "dd30264bff387fb8e541a6acf0db8be56417accba5285bcffd7709d500ba39c3",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
