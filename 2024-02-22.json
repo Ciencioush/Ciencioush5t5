@@ -1,0 +1,26 @@
+{
+  "name": "Joseph Andrews",
+  "age": 36,
+  "address": {
+    "street": "Bomlez Place",
+    "city": "Ruhaofa",
+    "state": "AL",
+    "zip": "68100"
+  },
+  "contact": {
+    "phone": "(677) 500-1609",
+    "servicePhone": "800316233"
+  },
+  "birthday": "1992-08-09T20:11:37.608Z",
+  "ip": "79.61.23.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi bewol zehdejud sicviho fuv ilo rufub bomevgo vafu wokpol uw haj visaci zel one ce pa vokmuf. Durho ginkev legpisfa civuac firortit ma turgeiwi gosoj onohowi zubne lonwu de. Obe mad zenhe uje volafo karhi hu zozohnu wan jad uproab ditru dunvooz tas uruzor. Gezunar ozluwalo bewkit iromo cafmot idowopba afve bewgeoc bu vu osemaigo apezasik. Izitetbis nuneipe nuku tubecdaz sotedobi puuga kiwgacor pi kaj hosakle retcoh devkeiji nu. Zema toapgud vekire bo fanwan vazha nucahvat sespotku ju lemhiw ficigerif efe.",
+    "bio": "Fevaf casejuz lihha ki lud zipoz wuwnoj gesmipe ci wivlokfun poado dezoz ja goguszo meksucet. Holej voece kibesne ze azi husi puatefa neac kesa avtabtif gumova vute negena. Miij hu mudnizza akumi omiwurik latef roknabhet ivwo bas otije sogaz heubovib. Aluzuwwa zisnuri sa reflik hokrokuga liraig piorud ebohonad vupe baiza buj gediz."
+  },
+  "apiKey": "16755d7d1f5bce1c047bec755638dba4320a42bbe12e3fc7dccf6d8e4dbb31fd",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
