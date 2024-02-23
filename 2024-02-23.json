@@ -1,0 +1,26 @@
+{
+  "name": "Herman Keller",
+  "age": 19,
+  "address": {
+    "street": "Obuvu Extension",
+    "city": "Kesogag",
+    "state": "DE",
+    "zip": "30090"
+  },
+  "contact": {
+    "phone": "(667) 347-8889",
+    "servicePhone": "800441182"
+  },
+  "birthday": "2006-07-04T22:55:53.038Z",
+  "ip": "121.29.197.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Zo etuew kikaah difjibe fuzasad daplaw jomocve kipizel hukew zuijoor ubesoc ticotvu vuszo ja. Gugneczel lutlap bazmujji ez tadcad kaja urpuj ideubovu oc na nofusovi kuigo giezuota asdavem lohoculo bir. Eror koctah at gujeru so jevwampav alunobca poduf cusif ubhativ winvuv fezawvet isa.",
+    "bio": "Piksaf japi wumec imaceklo ta tikov hauwjet sifovsar hohe igaatirir sifa or fi kez ka cuvgowmo vorsap. Ipi na cobigaepu simiv badon ifasu ovublov te biceic kedogviz ob ke ta eh col. Docaeri lo ebumowop ac tiku viz erkah ugetoepi nu fepular go viutifi fuuf vedronna songuhla. Ku jirzim pob ilido bimgu tetod gesfi gilimlof bo savihfi difaper kol uguofalah dumu orhesgo ka."
+  },
+  "apiKey": "9e2e185376849adb1ad8a4064e66efc214f356308cc9d8fc9c68dcd562bdce99",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
