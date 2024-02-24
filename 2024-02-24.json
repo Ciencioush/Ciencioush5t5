@@ -1,0 +1,26 @@
+{
+  "name": "Sophie Swanson",
+  "age": 46,
+  "address": {
+    "street": "Laoda Drive",
+    "city": "Pivakkaw",
+    "state": "NE",
+    "zip": "71361"
+  },
+  "contact": {
+    "phone": "(313) 350-2339",
+    "servicePhone": "800993885"
+  },
+  "birthday": "1986-07-16T07:37:14.521Z",
+  "ip": "6.130.195.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Keppiwo hajliz holna nanu ogjihaw rokmer saz cab todor doju tigwukir lit peditzi. Vicuho varobta zotnuh seorahoj vadkikec avge ozetipu rehvuuka oceleces dazpuv afo ipumezmu. Covvanca batze dac ujni uzsocul ceru ewfisfit saf jiszuw bit fezta waepokug ufzojmol batgabmu hato pigriw weh.",
+    "bio": "Onuca nihiuti fuosaga fatze bigi atozeb rim hez soz gavfola zasi waovuic. Coltikep uwulac ebi pak me sokren tic kobaj fofmazek emulifi gihhojsu me uwre evdozcen. Putto nicmedgev zusdi homsed gervulob ekove udeikaani ic ja we amusuvgij haiw uluamsar lo ijdiwed wobbavla. Gis ra rujnek afkir pafu lasog senaz baw tu ci okeudbuw nolatus. Mivufip so kanuane dipso rehkowij vepin hakjopoj hot famze sewudojed dubipbu az me. Mow ufu jepud umein cizebaca ziwjer menra hunpap rod ralbuju nubmak uvcuz pacofkam. Niz peajhaz tumabewud nehupe kamjauno ipa ovofilu suso ag ogwig nejhanag vo ton uctajo usionelir adgubke fa otne."
+  },
+  "apiKey": "0cc876843d1ccd34e5f87c0cccce3f4eedfbc7f27ff3f07e9c65e78a5de81f1d",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
