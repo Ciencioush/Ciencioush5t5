@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Clayton",
+  "age": 22,
+  "address": {
+    "street": "Ijaaza Grove",
+    "city": "Osaezwo",
+    "state": "KS",
+    "zip": "31928"
+  },
+  "contact": {
+    "phone": "(404) 580-6888",
+    "servicePhone": "800598979"
+  },
+  "birthday": "1977-07-18T06:31:07.890Z",
+  "ip": "190.252.247.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga ov ithe sagokdo covamu vos on gap tak imsa pubouf ipgibil vupu. Pu uvi epam hugrib za tejvoc sewuhro ve uwegebu du polgunoze nefgem higwaz levrinmev ce. Datmajuc vevofwe zaejnak fujejil ut huj nivegwuz lurumwe dalu erece afca ta koj ohev ike sihib.",
+    "bio": "Barpupov ifini wi ranoj viumsu tudogwo naf tijceeb arooca puf osedobid tonazzom. Jisaw wa am jajir uzatelha foetaunu la firata aguzolac ke muecpag mo. Ari fedemu hufke ima daawobun ce ojsojon suh sos zevmepu poize ezo idanukzo di."
+  },
+  "apiKey": "e33db641cb4b1fe73927c1e1a948375f6637ad1b88f8df62798d84c767703dc7",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
