@@ -1,0 +1,26 @@
+{
+  "name": "Francis Wong",
+  "age": 40,
+  "address": {
+    "street": "Hudec Drive",
+    "city": "Eleduru",
+    "state": "ME",
+    "zip": "98250"
+  },
+  "contact": {
+    "phone": "(944) 412-8232",
+    "servicePhone": "800671311"
+  },
+  "birthday": "1972-06-22T15:17:08.587Z",
+  "ip": "52.166.95.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Fewjilo wuopecek voige gegre ufupab abebeli pok kagi wized vitemo ciguli coulupud nel apho laedvo ticac. Vofru pe uzuerojo zojajme ceno jumun hogozuz uv lujinubi aheifeawu jur ilobagpeh. Cevcusjas ta kane getin ri werjahci peltavne una jis ver itezo petra tin cuwwuine jabawde cop.",
+    "bio": "Leoj finabip veje tadub ofabeip ga wonoga tamovu heleoku hofihuw nariwbi uvu ji nav wusoz. Wowa sel dopze moktut di ejkon jug ugowutho nibihtal vejcuw iciledan robasa iv buzmihbip gevnenun embuuh. Ihrefek zikosdaj wokzasub penij da gegdam najkan cedakdow fegmew oj rabibbuf cojewi wosev ro hoav ti davwo siv."
+  },
+  "apiKey": "f4c2657a735b6d786f716cb98941e78c84d83dc530492db0978ab838efecc160",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
