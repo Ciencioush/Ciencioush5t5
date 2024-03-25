@@ -1,0 +1,26 @@
+{
+  "name": "Ralph Fisher",
+  "age": 39,
+  "address": {
+    "street": "Bessu Manor",
+    "city": "Bobahmi",
+    "state": "AR",
+    "zip": "05818"
+  },
+  "contact": {
+    "phone": "(781) 706-6061",
+    "servicePhone": "800584546"
+  },
+  "birthday": "1992-01-26T03:53:07.908Z",
+  "ip": "238.208.10.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Cu wan enu uhaomi dumduz sotkebes zibuule siv wepze zik za run mumita lek zab ukesewap dicwide. Si vajsa zufugow wubat ifu cu unikbe az bokwo akuwe eskil recalit ben tolvus ses vuhojga kelistom jup. Sag masfaj riobsin ohaho erco fecuna ajofu aj nuwov sigaglo dofgez wuwo mer ufupe ezpu.",
+    "bio": "Ce pijetoem imamahun babvimeg lusupu nevneg cuuj niceka ju bu ceacesi juhow murlaeci. Oc se gahih gukigrog jahipeb ejivu ujkuif ba aceconko uka som to upoobeb ri hi kafu enu. Nafuvca gifablaj dik giwwuda zokguz vafaago maj meti cafe tekawuco redejujen ala get."
+  },
+  "apiKey": "fda89a5d78d729c86303cf1f95e0c0c2e7a6ed06a1d25b0093863af9db721926",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
