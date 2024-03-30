@@ -1,0 +1,26 @@
+{
+  "name": "Caleb Kelley",
+  "age": 54,
+  "address": {
+    "street": "Desep Way",
+    "city": "Livojaco",
+    "state": "IN",
+    "zip": "68573"
+  },
+  "contact": {
+    "phone": "(246) 363-2898",
+    "servicePhone": "800183776"
+  },
+  "birthday": "1978-09-05T17:51:29.174Z",
+  "ip": "165.199.151.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Omkum beglozva haz idiwuzor hurofpo okzejun ga me lav duvahup durfito li acucogab uwokutegu maf eg virhefbo. So ru eruva nus um tes mav wuj wi ehimo jeaf pijah. Wucugewo jozu cafococ juzugi bav luhje dohmog zihviglit gifuhfon vop fadpi ospu.",
+    "bio": "Ditifes ci tizkargo bogpo weik bujiz purdaw se bina na hamet bicjaj ber heget ut ro suvne uc. Togtig vih ukecelop avulargip futo deic ewrugni ce epiwasgo ke erwu fe pidfa tidavsop gioto wubvow. Timro jazdolhi ojseni jij cekezkap num lakomtop nuzzo tuzman ceto gaoh mevdethi gifto rodev pojis giztuwsad."
+  },
+  "apiKey": "09c82d575f5ee1317d353bd19590880f372c29819defa36166465e24ba62dba4",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
