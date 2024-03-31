@@ -1,0 +1,26 @@
+{
+  "name": "Lula Singleton",
+  "age": 57,
+  "address": {
+    "street": "Fuzri Point",
+    "city": "Rufilono",
+    "state": "PA",
+    "zip": "43956"
+  },
+  "contact": {
+    "phone": "(526) 201-3157",
+    "servicePhone": "800489126"
+  },
+  "birthday": "1995-05-06T03:50:19.268Z",
+  "ip": "144.6.253.135",
+  "foo": "bar",
+  "profile": {
+    "about": "Jamarna fam owo ivujujep da vud luv apohoh juklolho mupvos duperdo efo wic cefow zahju. Simpi tokeh joud jad jomopud iscun tazti rom zod cuko nakhamo tu latvavuz fatipuh wantukdej. Uzfa vadef umenava tu ihe muv figo kugel dodbel ilertu simak obrocwa do da. Jovkozef cakame ki lo ilzerhum pu ukuhur conuaf cet jojju uzo wohop zoh hufpi kulojpe ke. Geko hac ecapezi litosu luvulu tapa pupetkab waevfe hefse ubu iwipe pub. Hi kaci anoguz if muja bevopsan zek ul fu linila jipar cacra gugenamo. Laulula ruce facid poguujo ewvusbu baftisa mo he faih woflo tormo lusiwuw.",
+    "bio": "Repudob ihekrof sobejsud awvo ehivobmaf jomke hojanid ge hocu ordiwon nu peugabu fi ras nemegvip imana. Tel irhopi tajsav mutu hejus mo ak ju so goot pez hi. Wovu bapeh osupozob ho suhjokeh ecage gingev ema vumajiw puugka nosiwabi fibom vejkupit."
+  },
+  "apiKey": "23113d0c97e5405b4421025ed6721300d3849a95d5e40452b23bb8d9fec34167",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
