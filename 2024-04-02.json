@@ -1,0 +1,26 @@
+{
+  "name": "Katie Shaw",
+  "age": 37,
+  "address": {
+    "street": "Ogado Point",
+    "city": "Heziczaf",
+    "state": "MO",
+    "zip": "88794"
+  },
+  "contact": {
+    "phone": "(360) 650-5388",
+    "servicePhone": "800286143"
+  },
+  "birthday": "1983-02-05T01:12:10.246Z",
+  "ip": "236.69.231.153",
+  "foo": "bar",
+  "profile": {
+    "about": "Ejeniv la pajvuphiw gil holasli ew wa iliju iniojaga hiugive gamitiv elfa. Inbuf dog cimho pozjebi nu zewbugez peb opujombi igapuh dot sajavpuf nojekip ama tukame face wodoja vijju duza. Awunaafi nocebfu fe iwbej rabpa hep rezri imijapuh cepweripo aciferfa ohapen nizop go.",
+    "bio": "Gib rigiura cuzwabzum tidovjiz zutof zas hofol lapzuj hujotoz gozdu sasoziz ezi ah ihivawak jijeruk. Gic huhdi pejewa paf esenagek aw vunne uginsu zul toef hel woz ic guv evapo gunepho mojtim. Rugtasfi jizij onudaka sow zatve rof fom homzusos surojrus bemjo rofki cal wevewves hodapdin. Cujacro hiuc adjufkur susculmam birulig va sebu duhse wajibi vumoja igmuuv wufzu ri api giwvutlar jofonir ib."
+  },
+  "apiKey": "01f5eb213eb0033d1f42507f5b01c3bd9bb2a2fbdc02b74f8ca78e545d0b361e",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
